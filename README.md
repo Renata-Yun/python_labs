@@ -1,2 +1,3 @@
 # Python labs for data structure and algorithms
-# Выполнила Атаулина Рената БВТ1901
+# Pandas Python for Data Mining
+# Выполнила Атаулина Рената
