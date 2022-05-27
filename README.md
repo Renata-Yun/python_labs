@@ -1,2 +1,2 @@
 ## Python labs for data structure and algorithms
-## Pandas Python for Data Mining
+## Python for Data Mining
